@@ -1,0 +1,14 @@
+{
+  "name": "sample_observerjs",
+  "version": "0.0.1",
+  "description": "play observer ",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-connect": "*",
+    "grunt-contrib-watch": "*"
+  }
+}
