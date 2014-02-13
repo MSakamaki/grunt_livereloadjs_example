@@ -18,3 +18,8 @@ npm install
 grunt 
 
 ```
+
+[Open index.html localhost:90000](http://localhost:9000/)
+
+let's edit index.html
+
